@@ -6,7 +6,7 @@
     <condition>Fever and tachycardia</condition>
     <observation code="HR" unit="bpm">118</observation>
   </patient>
-  <patient id="P-102" status="Stable">
+  <patient id="P-102" status="stable">
     <name>John</name>
     <ward>Something</ward>
     <condition>Angry and Relax</condition>
