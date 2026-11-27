@@ -6,6 +6,12 @@
     <condition>Fever and tachycardia</condition>
     <observation code="HR" unit="bpm">118</observation>
   </patient>
+  <patient id="P-102" status="Stable">
+    <name>John</name>
+    <ward>Something</ward>
+    <condition>Angry & Relax</condition>
+    <observation code="JR" unit="bpm">118</observation>
+  <.patient>
 
   <!-- TODO 1: Add patient P-102 with status="stable". -->
   <!-- Include name, ward, condition, and one observation. -->
