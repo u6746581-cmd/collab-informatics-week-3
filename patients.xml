@@ -9,7 +9,7 @@
   <patient id="P-102" status="Stable">
     <name>John</name>
     <ward>Something</ward>
-    <condition>Angry & Relax</condition>
+    <condition>Angry and Relax</condition>
     <observation code="JR" unit="bpm">118</observation>
   <.patient>
 
